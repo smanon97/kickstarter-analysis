@@ -25,13 +25,13 @@
 
  - I needed to check the percentage of failed, successful, and canceled projects that belonged in the plays subcategory. I performed a count of the records arranging them in different goal categories to analyze how many projects were in each outcome category and calculate the compliance percentage of them. The graph presented the next results:
 
-  - ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/113459001/193118215-24ed1913-7df2-426c-9366-6b4fe8d5af0d.png)
+  - ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/113459001/193953437-b86fa03c-5501-4a5e-a74a-c1f18c79f3d9.png)
 
  - As seen in the graph, the worst range for a successful outcome is "45,000 to 49,999" every single record failed in this category. The best range for a successful outcome is "Less than 1,000" meaning that the cheapest goal is the one that succeeds the most for the plays subcategory. Finally, we can conclude that on average for the plays subcategory, more than 50% of the outcomes will be failed, 43% successful and 0% canceled.
 
  
  *Every procedure made and graphs are in the excel sheet attached below*
-  - [Kickstarter_Challenge.xlsx](https://github.com/smanon97/kickstarter-analysis/files/9679173/Kickstarter_Challenge.xlsx)
+  - [Kickstarter_Challenge.xlsx](https://github.com/smanon97/kickstarter-analysis/files/9711639/Kickstarter_Challenge.xlsx)
 
 
 ### Challenges and Difficulties Encountered
